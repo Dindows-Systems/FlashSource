@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="Style.css"?>
+<menu WIDTH="260" HEIGHT="120" 
+	  positionX = "25"
+	  positionY = "50"
+	  transitionType = "rotationy" 
+	  transitionBlurValue = "35"
+	  numberButtonVisibility = "true" 
+	  otherButtonVisibility = "true"
+	  easingIn = "Elastic.easeOut"
+	  easingOut = "Expo.easeOut"
+	  >
+	<item 
+		  tweentime = "2" speed = "5000" 
+		  URL="http://www.flashden.net/" path="banner1.gif" 
+		  />
+	<item
+		  tweentime = "2" speed = "5000" 
+		  URL= "http://www.flashden.net/" path="banner2.gif" 
+		  />
+	<item
+		  tweentime = "2" speed = "5000" 
+		  URL= "http://www.flashden.net/" path="banner3.gif" 
+		  />
+	<item
+		  tweentime = "2" speed = "5000" 
+		  URL= "http://www.flashden.net/" path="banner4.gif" 
+		  />
+	
+
+</menu>
+

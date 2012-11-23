@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/css' href='text.css'?>
+<menu>
+<item path= 'activeden.jpg'
+			tweentime= '2'
+			tweentimeIn= '1'
+			speed= '5'
+			URL= 'http://hitronasplet.com'	
+			openIn  = '_self'></item>
+<item path= 'audiojungle.jpg'
+			tweentime= '2'
+			tweentimeIn= '1'
+			speed= '5'
+			URL= 'http://hitronasplet.com'	
+			openIn  = '_blank'></item>
+</menu>
